@@ -17,6 +17,7 @@
 }
 .header-item{
     align-items: flex-end;
+    text-align: right;
 }
 .header-title{
     font-size: 78px;
@@ -26,13 +27,13 @@
     line-height: 70px;
     color: #fff;
     margin-bottom: 24px;
-    text-align: left;
     display: block;
+    
 }
 .header-description{
     font-weight: 400;
-    width: 490px;
-    height: 75px;
+    width: 494px;
+    height: 78px;
     color: #fff;
     margin-bottom: 32px;
     display: block;
